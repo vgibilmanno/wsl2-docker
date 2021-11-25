@@ -20,7 +20,7 @@ The setup script installs portainer as the default UI tool if the user accepts t
 
 - setup-docker
     - Installs docker in WSL2 (setup-docker-bash.sh)
-    - Configures proxy for port 2375 from windwos to WSL2
+    - Configures proxy for port 2375 from windows to WSL2
     - Downloads docker.exe and docker compose (V2) into C:\bin
     - Adds new DOCKER_HOST system environment variable
     - Adds C:\bin to system path environment variable
