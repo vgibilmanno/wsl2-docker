@@ -2,7 +2,7 @@
 
 Docker changed its licensing for Docker Desktop and for this reason bigger companies need to pay to be able to legaly use docker desktop. Docker desktop didn't just provide a UI, but conveniently wired up docker on WSL2 with windows. Since the licensing didn't change for docker engine and docker compose, its legal to manually install and use those.
 
-These scripts provide an easier way of installing docker and wiring everything up so that it just work. <b>Click'n'play</b> is the intention
+These scripts provide an easier way of installing docker and wiring everything up so that it just works. <b>Click'n'play</b> is the intention
 
 # Execution
 
